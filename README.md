@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hello, good to see you here👋</h1>
 
 ###
 
-<p align="left">My name is José Mateus and I'm an iOS Developer and Bioengineering Reseacher, from Brazil.<br><br>I'm fascinated by technology, and I'm focusing on mobile architectures and applications.</p>
+<p align="left">My name is José Mateus and I'm a iOS Developer and Bioengineering Reseacher, from Brazil.<br><br>I'm fascinated by technology, and I'm focusing on mobile architectures and applications.</p>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">Contact</p>
+<h2 align="left">Contact</h2>
 
 ###
 
@@ -38,6 +38,18 @@
   <a href="https://www.linkedin.com/in/mateus-sousa-42932011a/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
+</div>
+
+###
+
+<br clear="both">
+
+<h3 align="center">Let's change the world's health one technology at a time!</h3>
+
+###
+
+<div align="center">
+  <img height="200" src="https://www.gebauer.com/hubfs/healthcare-technology.jpg"  />
 </div>
 
 ###
